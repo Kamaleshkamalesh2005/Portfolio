@@ -2,6 +2,8 @@
 
 A modern, responsive, and interactive personal portfolio built with React, Vite, Tailwind CSS, and Three.js.
 
+**Live Demo:** https://portfolio-eight-eta-rsxbqfkpoq.vercel.app/
+
 This project showcases profile information, experience, projects, certificates, and technical skills with animated UI sections and 3D canvas components.
 
 ## Overview
